@@ -2,7 +2,7 @@ import requests
 import argparse
 import json
 import os
-
+#==========================================================EDIT BELOW HERE=========================================================================
 # Shodan API Key
 SHODAN_API_KEY = "your_shodan_api_key"
 
@@ -12,7 +12,7 @@ HIBP_API_KEY = "your_haveibeenpwned_api_key"
 # WHOIS API Key
 WHOIS_API_URL = "https://www.whoisxmlapi.com/whoisserver/WhoisService"
 WHOIS_API_KEY = "your_whois_api_key"
-
+#==========================================================EDIT ABOVE HERE=========================================================================
 def shodan_recon(target):
     """Query Shodan for target information."""
     url = f"https://api.shodan.io/shodan/host/{target}?key={SHODAN_API_KEY}"
