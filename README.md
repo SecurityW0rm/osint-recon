@@ -55,7 +55,7 @@ Right click and open in any python text editor
 
 The script has designated placeholders for Shodan, WHOIS, and haveibeenpwned API keys.
 
-But feel free to modify the script to use whatever APIs you would like.
+But feel free to modify to use with whatever APIs you would like.
 
 ![Screenshot 2024-12-18 at 17 41 24](https://github.com/user-attachments/assets/13c86c8f-bd10-489c-95c5-545e5f54c15c)
 
