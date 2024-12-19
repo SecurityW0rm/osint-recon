@@ -1,5 +1,5 @@
 # Define source and destination paths
-$sourcePath = ".\osint_recon.py"
+$sourcePath = ".\OSINT"
 $desktopPath = [Environment]::GetFolderPath("Desktop")
 $destinationPath = Join-Path -Path $desktopPath -ChildPath "osint_recon.py"
 
