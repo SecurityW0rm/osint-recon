@@ -63,6 +63,7 @@ File -> save
 
 ### 5. Change to your Desktop directory (Still in command prompt)
 ```powershell
+cd ..
 cd Desktop
 ```
 ### 6. Set your target
